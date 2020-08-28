@@ -1,2 +1,2 @@
-<h3>APP's NAME IS HERE</h3>
+<%# <h3>APP's NAME IS HERE</h3> %>
 <%= live_render(@conn, LiveViewTodosWeb.TodoLive) %>

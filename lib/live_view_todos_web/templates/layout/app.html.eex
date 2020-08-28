@@ -9,7 +9,7 @@
   </head>
   <body>
     <header>
-      <h1>HEADER</h1>
+      <h1>TODO APP</h1>
     </header>
     <main role="main" class="container">
       <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
